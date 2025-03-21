@@ -1,0 +1,2 @@
+# Favicon
+salaminion
